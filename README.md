@@ -48,7 +48,7 @@ download client_xxxxxxxxxxxx_secret.json, save to C:\GmailAPI\ClientCredentials\
 
 change to my .NET framwork 4.5  
 
-成功的畫面
+成功的畫面  
 ![succeed.JPG](succeed.JPG)  
 
 機器發出的EMAIL, 讀取時有 BUG, 沒時間研究  
