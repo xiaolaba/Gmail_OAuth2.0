@@ -50,7 +50,8 @@ C:\GmailAPI\CredentialsInfo
 C:\GmailAPI\GmailAttachment
 ```
 
-### download client_xxxxxxxxxxxx_secret.json, save to C:\GmailAPI\ClientCredentials\client_secret.json  
+### download client_xxxxxxxxxxxx_secret.json, 
+save & rename to C:\GmailAPI\ClientCredentials\client_secret.json  
 
 
 ### 成功的畫面  
