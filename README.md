@@ -31,6 +31,8 @@ modified Program.cs
 
 App.config  
 ```
+  <appSettings>
+    <add key="HostAddress" value="you_gmail_account@gmail.com" />
 
 ```
 
