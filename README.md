@@ -7,6 +7,8 @@ this is not my coding but other was doing,
 https://www.youtube.com/watch?v=0fTSKtPBLUc  
 https://drive.google.com/file/d/1PgipOrZBqEbgXCK8VGguR3XSwsk9Ww9T/view  
 
+### ref  
+https://developers.google.com/identity/protocols/oauth2  
 
 ### my source code mod with prompt   
 GmailAPI_.NET_C#_Everyday Be Coding_Full_Project__prompt_SourceCode.zip
