@@ -1,4 +1,4 @@
-#  Gmail_OAuth2.0_tseting  
+#  Gmail_OAuth2.0_testing  
 Gmail API using .NET C# with Source Code (Reading mails and Attachments)
 
 this is not my coding but other was doing,
