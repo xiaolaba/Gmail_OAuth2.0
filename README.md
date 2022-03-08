@@ -46,7 +46,7 @@ C:\GmailAPI\GmailAttachment
 
 download client_xxxxxxxxxxxx_secret.json, save to C:\GmailAPI\ClientCredentials\client_secret.json  
 
-change my .NET framwork 4.5  
+change to my .NET framwork 4.5  
 
 成功的畫面
 ![succeed.JPG](succeed.JPG)  
