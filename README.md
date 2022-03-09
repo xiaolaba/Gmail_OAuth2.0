@@ -75,5 +75,6 @@ sendmail_testing.bat, email address must change to your gmail account before tes
 1.txt
 1複製.txt
 ```
+![utf8_batch_file.JPG](utf8_batch_file.JPG)    
 
 
