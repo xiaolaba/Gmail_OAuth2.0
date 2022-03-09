@@ -68,8 +68,8 @@ save & rename to C:\GmailAPI\ClientCredentials\client_secret.json
 
 ## SendMail and utf8
 the win10 and batch file, [code page used is 936](https://en.wikipedia.org/wiki/Code_page_936_(Microsoft_Windows)) a default for CHT version, batch file is stored in utf8 (65001 code page), you may hold CTRL+click the link to see wiki of code page 936.
-in order to encode properly and dispaly for the command box,, uses "chcp 65001", will show properly displayed utf8 string and filename & file content encoded/decoded.
-testing files used.
+in order to encode properly and dispaly for the command box, uses "chcp 65001", will show properly displayed utf8 string and filename & file content encoded/decoded.
+testing files used,
 ```
 sendmail_testing.bat, email address must change to your gmail account before testing
 1.txt
