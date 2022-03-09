@@ -64,3 +64,16 @@ save & rename to C:\GmailAPI\ClientCredentials\client_secret.json
 
 ### 動機, 這個從2011年開始用FAX.TIF, 一直用低安全性等入, CDO 寫的機器, 終於 GOOGLE 說2022年5月30號就斷炊, 所以唯有花時間.  
 ![initiation.JPG](initiation.JPG)  
+
+
+## SendMail and utf8
+the win10 and batch file, code page used is 950 a default for CHT version, batch file is stored in utf8 (65001 code page)
+in order to encode properly and dispaly for the command box,, uses "chcp 65001", will show properly displayed utf8 string and filename & file content encoded/decoded.
+testing files used.
+```
+sendmail_testing.bat, email address must change to your gmail account before testing
+1.txt
+1複製.txt
+```
+
+
