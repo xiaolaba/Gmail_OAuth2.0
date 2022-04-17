@@ -78,3 +78,8 @@ sendmail_testing.bat, email address must change to your gmail account before tes
 ![utf8_batch_file.JPG](utf8_batch_file.JPG)    
 
 
+
+## further understanding the Gmail.cs & apis and the C# limitation
+https://gist.github.com/xiaolaba/d1948372dec2ef235c25bf2b710d132f
+
+
